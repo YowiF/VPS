@@ -1,0 +1,33 @@
+
+Miembros:
+
+-Yoel Fernández Suárez: Lider del grupo y del repositorio
+
+-Daniel Garcia Castro : Colaborador
+
+-Cristina Herrero Rodríguez: Colaboradora
+
+Tareas:
+
+Yoel Fernández Suárez: Organización del repositorio,despliegue de una aplicación web Full Stack en VPS Capitulo 4,despliegue de una aplicación web Full Stack en VPS Capitulo 5
+
+Daniel Garcia Castro :Despliegue de una aplicación web Full Stack en VPS Capitulo 1,despliegue de una aplicación web Full Stack en VPS Capitulo 2,dDespliegue de una aplicación web Full Stack en VPS Capitulo 3
+,despliegue de una aplicación web Full Stack en VPS Capitulo 4,despliegue de una aplicación web Full Stack en VPS Capitulo 5.
+
+Cristina Herrero Rodríguez:despliegue de una aplicación web Full Stack en VPS Capitulo 1 y despliegue de una aplicación web Full Stack en VPS Capitulo 2
+
+Plazos esperados:
+
+-Comienzo del proyecto:15/02/2022
+
+-Despliegue de una aplicación web Full Stack en VPS Capitulo 1: 16/02/2022
+
+-Despliegue de una aplicación web Full Stack en VPS Capitulo 2: 17/02/2022
+
+-Despliegue de una aplicación web Full Stack en VPS Capitulo 3: 19/02/2022
+
+-Despliegue de una aplicación web Full Stack en VPS Capitulo 4: 21/02/2022
+
+-Despliegue de una aplicación web Full Stack en VPS Capitulo 5: 22/02/2022
+
+Plazos Finales:
