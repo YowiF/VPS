@@ -9,12 +9,11 @@ Miembros:
 
 Tareas:
 
-Yoel Fernández Suárez: Organización del repositorio,despliegue de una aplicación web Full Stack en VPS Capitulo 4,despliegue de una aplicación web Full Stack en VPS Capitulo 5
+Yoel Fernández Suárez: organización del repositorio, despliegue de una aplicación web Full Stack en VPS Capitulo 4, despliegue de una aplicación web Full Stack en VPS Capitulo 5
 
-Daniel Garcia Castro :Despliegue de una aplicación web Full Stack en VPS Capitulo 1,despliegue de una aplicación web Full Stack en VPS Capitulo 2,dDespliegue de una aplicación web Full Stack en VPS Capitulo 3
-,despliegue de una aplicación web Full Stack en VPS Capitulo 4,despliegue de una aplicación web Full Stack en VPS Capitulo 5.
+Daniel Garcia Castro: despliegue de una aplicación web Full Stack en VPS Capitulo 1, despliegue de una aplicación web Full Stack en VPS Capitulo 2, despliegue de una aplicación web Full Stack en VPS Capitulo 3, despliegue de una aplicación web Full Stack en VPS Capitulo 4, despliegue de una aplicación web Full Stack en VPS Capitulo 5.
 
-Cristina Herrero Rodríguez:despliegue de una aplicación web Full Stack en VPS Capitulo 1, despliegue de una aplicación web Full Stack en VPS Capitulo 2 y despliegue de una aplicación web Full Stack en VPS Capitulo 3
+Cristina Herrero Rodríguez: despliegue de una aplicación web Full Stack en VPS Capitulo 1, despliegue de una aplicación web Full Stack en VPS Capitulo 2 y despliegue de una aplicación web Full Stack en VPS Capitulo 3
 
 Plazos esperados:
 
